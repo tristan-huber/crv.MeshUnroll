@@ -15,7 +15,7 @@
 
 
 
- example readme foobarbaz
+ Select faces are unrolled into a flat shape, minimizing stretch/compression.
 
 
 
