@@ -17,7 +17,7 @@
 
  Select faces are unrolled into a flat shape, minimizing stretch/compression.
 
-UnrollTogether - if true, selected faces with shared edges produce a single continuous laid out form
+UnrollTogether - if true,  faces with shared edges produce a continuous laid out form
 
 meshTolerance - lower values will be slower but marginally more precise.
 
