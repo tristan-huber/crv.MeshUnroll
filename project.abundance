@@ -15,7 +15,7 @@
     },
     {
       "name": "meshTolerance",
-      "ioValue": 0.01
+      "ioValue": 0.05
     },
     {
       "name": "compressiveFraction",
@@ -52,7 +52,7 @@
         },
         {
           "name": "tolerance",
-          "ioValue": 0.01
+          "ioValue": 0.05
         },
         {
           "name": "asSingular",
@@ -110,7 +110,7 @@
           "ioValue": "__GEOMETRY_INPUT__"
         }
       ],
-      "readMeText": "Select faces are unrolled into a flat shape, minimizing stretch/compression.",
+      "readMeText": "Select faces are unrolled into a flat shape, minimizing stretch/compression.\n\nUnrollTogether - if true, selected faces with shared edges produce a single continuous laid out form\n\nmeshTolerance - lower values will be slower but marginally more precise.\n\ncompressive/tensileFractions - the amount of stretch or compression which can be tolerated. Red for areas that exceed tensile fraction, blue for areas that exceed the compressive tolerance",
       "global": true
     },
     {
