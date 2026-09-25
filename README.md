@@ -17,5 +17,11 @@
 
  Select faces are unrolled into a flat shape, minimizing stretch/compression.
 
+UnrollTogether - if true, selected faces with shared edges produce a single continuous laid out form
+
+meshTolerance - lower values will be slower but marginally more precise.
+
+compressive/tensileFractions - the amount of stretch or compression which can be tolerated. Red for areas that exceed tensile fraction, blue for areas that exceed the compressive tolerance
+
 
 
