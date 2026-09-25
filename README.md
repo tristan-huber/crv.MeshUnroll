@@ -8,10 +8,14 @@
 
 - **toUnroll** (geometry)
 - **unrollTogether** (boolean)
-- **tolerance** (number)
+- **meshTolerance** (number)
+- **compressiveFraction** (number)
+- **tensileFraction** (undefined)
 
 
 
 
- 
+ example readme foobarbaz
+
+
 
