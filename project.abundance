@@ -110,7 +110,7 @@
           "ioValue": "__GEOMETRY_INPUT__"
         }
       ],
-      "readMeText": "example readme foobarbaz",
+      "readMeText": "Select faces are unrolled into a flat shape, minimizing stretch/compression.",
       "global": true
     },
     {
