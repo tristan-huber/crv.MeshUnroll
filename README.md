@@ -10,7 +10,7 @@
 - **unrollTogether** (boolean)
 - **meshTolerance** (number)
 - **compressiveFraction** (number)
-- **tensileFraction** (undefined)
+- **tensileFraction** (number)
 
 
 
