@@ -74,7 +74,7 @@
     {
       "atomType": "Input",
       "x": 0,
-      "y": 0.2,
+      "y": 0.1,
       "uniqueID": "id-76496",
       "name": "toUnroll",
       "type": "faceselect",
@@ -84,7 +84,7 @@
     {
       "atomType": "Input",
       "x": 0,
-      "y": 0.3,
+      "y": 0.2,
       "uniqueID": "id-76499",
       "name": "unrollTogether",
       "type": "boolean",
@@ -93,7 +93,7 @@
     {
       "atomType": "Input",
       "x": 0,
-      "y": 0.5,
+      "y": 0.3,
       "uniqueID": "id-76502",
       "name": "meshTolerance",
       "options": []
@@ -116,7 +116,7 @@
     {
       "atomType": "Input",
       "x": 0,
-      "y": 0.6,
+      "y": 0.4,
       "uniqueID": "id-76520",
       "name": "compressiveFraction",
       "options": []
@@ -124,7 +124,7 @@
     {
       "atomType": "Input",
       "x": 0,
-      "y": 0.8,
+      "y": 0.5,
       "uniqueID": "id-76523",
       "name": "tensileFraction",
       "options": []
